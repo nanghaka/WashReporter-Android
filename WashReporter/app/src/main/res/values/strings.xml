@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">WashReporter</string>
+    <string name="app_name">WASHReporter</string>
+    <string name="washcat">Select WASH Category</string>
+    <string name="desc"> Description </string>
 </resources>
